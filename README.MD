@@ -4,21 +4,12 @@ Our solution to the problems posed below by the Mathematical Association of Amer
 for Industrial Careers in Mathematical Sciences):
 
 ```
-Given tomographic data in the region surrounding a tumor, can we extract the volume occupied by the tumor?
+Given a randomly selected set of points from a volume, we can determine the volume assumeing (1) the points are equally likely to occur anywhere within the volume or (2) the points are more likely to appear near the surface of the volume.
 ```
 
-```
-Given a randomly selected set of points from a volume, how can we determine the surface enclosing 
-the volume assuming the points are equally likely to occur anywhere within the volume?
-```
+This solution has applicates in computed tomography. For example, when trying to identify a tumor using only tomographic point data.
 
-```
-Do our proposed methodologies of determining the surface change when we are more likely to detect elements of the volume 
-which are nearer to the surface?
-```
-
-Please read the accompanying paper for more information [Paper] 
-Here you will find the project [Source Code](https://github.com/fmadrid/BoundaryPointDetection/blob/master/Documentation/BoundaryPoint.pdf)
+Please read the accompanying paper for more information [Paper](https://github.com/fmadrid/BoundaryPointDetection/blob/master/Documentation/BoundaryPoint.pdf) for more information.
 ## Built With
 
 * [Matlab (R2015a)](https://www.mathworks.com/?s_tid=gn_logo)
@@ -26,9 +17,7 @@ Here you will find the project [Source Code](https://github.com/fmadrid/Boundary
 ## Contributing
 We are not accepting external commits at this time.
 
-
 ## Authors
-
 * **Frank Madrid** - *Initial work* - [fmadrid](https://github.com/fmadrid)
 
 See also the list of [contributors](https://github.com/fmadrid/BoundaryPointDetection/contributors) who participated in 
