@@ -1,4 +1,4 @@
-# Boundary Point Detection from Noisy Tomographic Data (BPoint)
+# Boundary Point Detection from Noisy Tomographic Data
 
 Our solution to the problems posed below by the Mathematical Association of America for their **PIC Mathematics** (Preparation
 for Industrial Careers in Mathematical Sciences):
