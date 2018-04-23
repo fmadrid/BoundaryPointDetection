@@ -4,9 +4,9 @@ Our solution to the problems posed below by the Mathematical Association of Amer
 for Industrial Careers in Mathematical Sciences):
 
 ```
-Given a randomly selected set of points from a volume, we can determine the volume assuming:
-  (1) the points are equally likely to occur anywhere within the volume or 
-  (2) the points are more likely to appear near the surface of the volume.
+Given a randomly selected set of points from a volume, we can determine the volume assuming the points are:
+  (1) Equally likely to occur anywhere within the volume or 
+  (2) More likely to appear near the surface of the volume.
 ```
 
 This solution has applications in computed tomography. For example, when trying to identify a tumor using only tomographic point data.
